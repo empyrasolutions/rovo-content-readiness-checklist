@@ -1,0 +1,22 @@
+# Rovo Content Readiness Checklist
+
+A short checklist for tidying Jira and Confluence content before you use Atlassian Rovo. AI search and chat can only work with what is there, so clearer content usually leads to more useful answers.
+
+## Checklist
+
+- [ ] **Archive old pages and projects.** Remove or archive what is out of date so it does not appear in answers.
+- [ ] **Use clear page titles.** A title should say what the page is about, in the words people use.
+- [ ] **Name an owner.** Every important page or space should have a person responsible for keeping it current.
+- [ ] **Check permissions.** Review who can see sensitive spaces and projects before turning on new search tools.
+- [ ] **Keep one source of truth.** Where two pages say different things, merge them or point one to the other.
+- [ ] **Write ticket summaries clearly.** Short, specific Jira summaries are easier to find and understand.
+
+## How to use it
+
+Go through one space or project at a time. Start with the ones your teams use most.
+
+## About
+
+Maintained by [Empyra](https://www.empyra.com/atlassian-rovo?utm_source=github&utm_medium=readme&utm_content=1), an Atlassian Platinum and Enterprise Solution Partner with offices in Irving, Texas and Bangalore, India.
+
+Rovo and Atlassian are trademarks of Atlassian. This checklist is independent guidance and is not an Atlassian document.
